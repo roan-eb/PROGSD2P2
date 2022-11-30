@@ -1,0 +1,82 @@
+[30-Nov-2022 11:18:53 UTC] PHP Warning:  include(CMS/start/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:18:53 UTC] PHP Warning:  include(): Failed opening 'CMS/start/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:18:53 UTC] PHP Warning:  include(CMS/start/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:18:53 UTC] PHP Warning:  include(): Failed opening 'CMS/start/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:16 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:16 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:16 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:16 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:20:18 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:21:03 UTC] PHP Warning:  include(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldinclude.php on line 2
+[30-Nov-2022 11:21:03 UTC] PHP Warning:  include(): Failed opening './voorbeeld.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldinclude.php on line 2
+[30-Nov-2022 11:21:03 UTC] PHP Warning:  require(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:21:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './voorbeeld.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php(6): include()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:21:04 UTC] PHP Warning:  include(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldinclude.php on line 2
+[30-Nov-2022 11:21:04 UTC] PHP Warning:  include(): Failed opening './voorbeeld.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldinclude.php on line 2
+[30-Nov-2022 11:21:04 UTC] PHP Warning:  require(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:21:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './voorbeeld.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php(6): include()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:21:08 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:21:08 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:21:08 UTC] PHP Warning:  require(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:21:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './voorbeeld.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php(6): include()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:21:55 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:21:55 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:21:55 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:21:55 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:21:56 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:21:56 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:21:56 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:21:56 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:22:29 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:22:29 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:22:29 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:22:29 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:22:30 UTC] PHP Warning:  include(./private/voorbeeldinclude.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:22:30 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldinclude.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 3
+[30-Nov-2022 11:22:30 UTC] PHP Warning:  include(./private/voorbeeldrequired.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:22:30 UTC] PHP Warning:  include(): Failed opening './private/voorbeeldrequired.php' for inclusion (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php on line 6
+[30-Nov-2022 11:22:30 UTC] PHP Warning:  require(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:22:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './voorbeeld.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php(6): include()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:22:30 UTC] PHP Warning:  require(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:22:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './voorbeeld.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php(6): include()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:22:31 UTC] PHP Warning:  require(./voorbeeld.php): Failed to open stream: No such file or directory in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
+[30-Nov-2022 11:22:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './voorbeeld.php' (include_path='.:/Applications/MAMP/bin/php/php8.0.8/lib/php') in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php:2
+Stack trace:
+#0 /Applications/MAMP/htdocs/PROGCMS-week1/public/index.php(6): include()
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/PROGCMS-week1/private/voorbeeldrequired.php on line 2
