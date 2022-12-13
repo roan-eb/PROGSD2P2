@@ -20,4 +20,4 @@
 ### Referrer Policy strict-origin-when-cross-origin
 ### Request Priority Low
 
-### Ook waren de response en request header anders. Site 2 had alleen request headers terwijl Site 1 response en request headers had.
+### Ook waren de response en request headers anders. Site 2 had alleen request headers terwijl Site 1 ze wel allebei had.
