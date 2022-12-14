@@ -1,18 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <title>Startpagina</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
-<body>
   <?php include "private/shared/header.php"; ?>
-
   <div>
     <h1>
-      Opdracht 3
+      PHP opdrachten
     </h1>
   </div>
 
