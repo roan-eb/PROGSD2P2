@@ -12,15 +12,10 @@
 
 ### Het verschil is dat $_SERVER kijkt welke methode er gebruikt word en $_POST is een methode die gebruikt word om data te versturen.
 
-## Validatie
-
-### Gedaan
-
-## Sanitize filter
-
-### Gedaan
-
-
 ## Wat doet stripslashes, addslashes, htmlspecialchars
 
-### 
+### stripslashes() kan worden gebruikt als je deze gegevens niet invoegt bij bijvoorbeeld een database waarvoor escape nodig is. Als je bijvoorbeeld gewoon gegevens rechtstreeks uit een HTML-formulier uitvoert.
+
+### addlashes() wordt soms verkeerd gebruikt om SQL-injectie te voorkomen. In plaats daarvan moeten database-specifieke escape-functies zoals prepared statements worden gebruikt.
+
+### htmlspecialchars() is een ingebouwde functie in PHP die wordt gebruikt om alle vooraf gedefinieerde tekens naar HTML te converteren.
