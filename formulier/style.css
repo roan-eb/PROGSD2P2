@@ -1,0 +1,91 @@
+:root {
+    /* https://coolors.co/palette/780000-c1121f-fdf0d5-003049-669bbc */
+    --prussian-blue: #003049;
+    --superiority-blue: #669BBC;
+    --papaya: #FDF0D5;
+    --venetian-red: #fff;
+    --barn-red: #312f2f;
+    --font-weight-normal: 300;
+    --font-weight-bold: 500;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: var(--barn-red);
+    color: #333333;
+    font-family: 'Mukta', sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+input, select, textarea {
+    font-family: 'Mukta', sans-serif;
+}
+
+
+.contact {
+    background-color: white;
+    padding: 2rem;
+}
+
+.contact h2 {
+    margin-bottom: 2rem;
+}
+
+.form__field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.form__field label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.form__field input,
+.form__field textarea {
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.form__button {
+    background-color: var(--barn-red);
+    padding: 1rem 2rem;
+    color: #ffffff;
+    display: inline-block;
+}
+
+/* Media queries */
+@media all and (min-width: 900px) {
+    .place-details section {
+        display: flex;
+        gap: 2rem;
+    }
+
+    .place-details article {
+        width: 60%;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    .place-details article {
+        width: 70%;
+    }
+}
+
+@media all and (min-width: 1600px) {
+    .place-details article {
+        width: 80%;
+    }
+}
