@@ -1,5 +1,8 @@
-<?php
+<?php include '../../private/init.php'; ?>
+<?php include "../private/shared/header.php"; ?>
 
-include "../../private/shared/header.php";
+<h1>
+  Beheer
+</h1>
 
-include "../../private/shared/footer.php";
+<?php include "../private/shared/footer.php"; ?>

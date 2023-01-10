@@ -1,8 +1,6 @@
 <?php
-
-define("PRIVATE_PATH", dirname(__FILE__));
-define("PROJECT_PATH", dirname(PRIVATE_PATH));
-
+define("PROJECT_PATH", dirname(path: __FILE__));
+define("PRIVATE_PATH", dirname(path: PROJECT_PATH . '/private'));
 define("SHARED_PATH", PRIVATE_PATH . '/shared');
 
-define("PUBLIC_PATH", PROJECT_PATH . '/public');
+include SHARED_PATH . '/functions.php';
